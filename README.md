@@ -45,7 +45,7 @@ This work is protected under the [MIT License](https://opensource.org/licenses/M
     - `*_data` has shape `(num_samples, num_features)`, `*_label` has shape `(num_samples,)`
 
 ## Call Hierarchy
-- `main.py`
+- `mainczr.py`
     - `utils.py` (#0: `ucr_dataset`, #3 wrapper: `GraphDataset`)
     - `construct_graph.py` (#1 wrapper: `extract_shapelets`, #2: `embed_series`, #3: `adjacency_matrix`)
         - `ts2vec.py` (#1 optional enhancement: `TS2Vec`)
