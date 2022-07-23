@@ -22,7 +22,7 @@ This work is protected under the [MIT License](https://opensource.org/licenses/M
 <br>
 
 ## Running the Program
-    $ python main.py
+    $ python mainczr.py
 - ***WARNING:** the condensed `ts2vec` module has **not** been thoroughly tested. Clone [yuezhihan/ts2vec](https://github.com/yuezhihan/ts2vec) under the same folder in case it fails.*
 
 ## Model Pipeline
